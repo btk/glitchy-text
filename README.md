@@ -2,6 +2,10 @@
 
 Helps you create glitching (changing and getting back to default) monospace text.
 
+# Demo
+
+Check the demo out at: <https://btk.github.io/glitchy-text/>
+
 # Usage
 
 Grab and insert glitch.js to your HTML page;
